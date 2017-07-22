@@ -92,7 +92,7 @@ class App extends Component {
         </div>
         {/* Additional padding compensates width of artificial MDL Layout scrollbar. */}
         <GithubMark
-          href="https://github.com/kengho/kengho.tech"
+          href="https://github.com/kengho/kengho.tech-landing"
           padding="8px-16px"
         />
       </div>
