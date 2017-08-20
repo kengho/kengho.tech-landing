@@ -32,12 +32,12 @@ class SpreadsheetProject extends Component {
               <li>clean material-ish design</li>
             </ul>
             <div className="links-block">
-              <a href="https://kengho.tech/spreadsheet">
+              <a href="https://kengho.tech/spreadsheet/">
                 <button className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
                   try
                 </button>
               </a>
-              <a href="https://github.com/kengho/react-redux-spreadsheet/">
+              <a href="https://github.com/kengho/react-redux-spreadsheet">
                 GitHub
               </a>
             </div>

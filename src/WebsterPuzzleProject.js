@@ -24,12 +24,12 @@ class WebsterPuzzleProject extends Component {
               <li>easy to share — just copy URL</li>
             </ul>
             <div className="links-block">
-              <a href="https://kengho.tech/webster-puzzle">
+              <a href="https://kengho.tech/webster-puzzle/">
                 <button className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
                   play
                 </button>
               </a>
-              <a href="https://github.com/kengho/webster-puzzle/">
+              <a href="https://github.com/kengho/webster-puzzle">
                 GitHub
               </a>
             </div>
