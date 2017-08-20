@@ -29,7 +29,7 @@ class WebsterPuzzleProject extends Component {
                   play
                 </button>
               </a>
-              <a href="https://github.com/kengho/webster-puzzle">
+              <a href="https://github.com/kengho/webster-puzzle/">
                 GitHub
               </a>
             </div>

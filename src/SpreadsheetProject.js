@@ -37,7 +37,7 @@ class SpreadsheetProject extends Component {
                   try
                 </button>
               </a>
-              <a href="https://github.com/kengho/react-redux-spreadsheet">
+              <a href="https://github.com/kengho/react-redux-spreadsheet/">
                 GitHub
               </a>
             </div>
