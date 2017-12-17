@@ -20,7 +20,9 @@ class SpreadsheetProject extends Component {
           </video>
           <div className="text-block">
             <ul>
-              <li>automatic sync with server with requests queue</li>
+              <li>auto sync with server with requests queue</li>
+              <li>auto saving cells' values history</li>
+              <li>export/import to/from CSV/JSON</li>
               <li>basic hotkeys handlers (<code>ArrowX</code>, <code>Enter</code>, <code>Escape</code>, <code>F2</code>, <code>PageDown</code>, <code>PageUp</code>, <code>Home</code>, <code>End</code>, <code>Delete</code>)</li>
               <li>copy/cut/paste cells (<code>Ctrl+C</code>, <code>Ctrl+X</code>, <code>Ctrl+V</code>)</li>
               <li><a href="https://github.com/omnidan/redux-undo">redux-undo</a>-powered undo/redo (<code>Ctrl+Z</code>, <code>Ctrl+Y</code>)</li>
