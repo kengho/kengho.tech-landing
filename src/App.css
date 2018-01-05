@@ -112,3 +112,22 @@ video {
 .links-block a {
   padding: 8px;
 }
+
+@media only screen and (max-width: 500px) {
+  .content ul {
+    padding-left: 16px;
+  }
+
+  .main-block {
+    flex-wrap: wrap;
+  }
+
+  video {
+    flex-basis: auto;
+  }
+
+  .text-block {
+    padding-top: 16px;
+    flex-basis: auto;
+  }
+}
