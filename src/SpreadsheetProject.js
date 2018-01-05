@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SpreadsheetDemoMp4 from './images/spreadsheet-demo.mp4';
+import SpreadsheetDemoPng from './images/spreadsheet-demo.png';
 
 class SpreadsheetProject extends Component {
   render() {
@@ -14,7 +15,7 @@ class SpreadsheetProject extends Component {
           <a href="http://rubyonrails.org/">Rails</a>-<a href="https://facebook.github.io/react/">react</a>-<a href="http://redux.js.org/docs/introduction/">redux</a>-powered spreadsheet, where you can do basic spreadsheeting.
         </div>
         <div className="main-block">
-          <video controls>
+          <video controls poster={SpreadsheetDemoPng}>
             <source src={SpreadsheetDemoMp4} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
