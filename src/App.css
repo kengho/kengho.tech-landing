@@ -83,15 +83,24 @@ code {
   align-items: stretch;
 }
 
-video {
+.video-50 {
   align-self: flex-start;
   flex-basis: 50%;
 }
 
+.video-25 {
+  align-self: flex-start;
+  flex-basis: 25%;
+}
+
 /* HACK: for some reasom Chrome ignores flex-basis. */
 @supports (-webkit-appearance:none) {
-  video {
+  .video-50 {
     width: 50%;
+  }
+
+  .video-25 {
+    width: 25%;
   }
 }
 

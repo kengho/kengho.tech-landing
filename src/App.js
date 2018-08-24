@@ -5,6 +5,7 @@ import './App.css';
 import getMinDistYProject from './lib/getMinDistYProject';
 import SpreadsheetProject from './SpreadsheetProject';
 import WebsterPuzzleProject from './WebsterPuzzleProject';
+import IpCalcProject from './IpCalcProject';
 
 class App extends Component {
   constructor(props) {
@@ -19,6 +20,9 @@ class App extends Component {
       },
       'webster-puzzle': {
         component: WebsterPuzzleProject,
+      },
+      'ip-calc': {
+        component: IpCalcProject,
       },
     };
 

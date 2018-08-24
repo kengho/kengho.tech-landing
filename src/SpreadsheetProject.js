@@ -15,7 +15,7 @@ class SpreadsheetProject extends Component {
           <a href="http://rubyonrails.org/">Rails</a>-<a href="https://facebook.github.io/react/">react</a>-<a href="http://redux.js.org/docs/introduction/">redux</a>-powered spreadsheet, where you can do basic spreadsheeting.
         </div>
         <div className="main-block">
-          <video controls poster={SpreadsheetDemoPng}>
+          <video controls poster={SpreadsheetDemoPng} className="video-50">
             <source src={SpreadsheetDemoMp4} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
