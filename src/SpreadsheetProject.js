@@ -33,7 +33,7 @@ class SpreadsheetProject extends Component {
               <li>clean material design</li>
             </ul>
             <div className="links-block">
-              <a href="https://kengho.tech/spreadsheet/">
+              <a href="https://spreadsheet.kengho.tech/">
                 <button className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
                   try
                 </button>
