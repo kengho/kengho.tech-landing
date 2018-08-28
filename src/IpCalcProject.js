@@ -21,7 +21,7 @@ class IpCalcProject extends Component {
           <div className="text-block">
             <div />
             <div className="links-block">
-              <a href="https://kengho.tech/ipcalc/">
+              <a href="https://ipcalc.kengho.tech/">
                 <button className="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
                   try
                 </button>
