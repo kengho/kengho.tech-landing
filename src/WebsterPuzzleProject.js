@@ -14,7 +14,7 @@ class WebsterPuzzleProject extends Component {
           <a href="http://rubyonrails.org/">Rails</a>-<a href="https://facebook.github.io/react/">react</a>-powered dictionary puzzle game, where the goal is to find a chain of definitions that leads from one given word to other.
         </div>
         <div className="main-block">
-          <video controls poster={WebsterPuzzleDemoPng} className="video-50">
+          <video controls poster={WebsterPuzzleDemoPng}>
             <source src={WebsterPuzzleDemoMp4} type="video/mp4" />
             Your browser does not support the video tag.
           </video>

@@ -14,7 +14,7 @@ class IpCalcProject extends Component {
           Simple <a href="https://vuejs.org/" rel="nofollow">vuejs</a>-powered app for getting info from IPv4 CIDR (basically, my Vue "Hello World").
         </div>
         <div className="main-block">
-          <video controls poster={IpCalcDemoPng} className="video-25">
+          <video controls poster={IpCalcDemoPng}>
             <source src={IpCalcDemoMp4} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
